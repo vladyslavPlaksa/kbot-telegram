@@ -1,6 +1,8 @@
 # kbot-telegram
 It is Telegram bot on Golang
 
+### Link to this bot [KBot](http://t.me/vladyslavplaksa_bot)
+
 ### To run this app 
 
 * Specify ENV `TELEGRAM_TOKEN`. Use `read -s TELEGRAM_TOKEN` after that `export TELEGRAM_TOKEN`
