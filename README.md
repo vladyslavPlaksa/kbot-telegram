@@ -5,7 +5,7 @@ It is Telegram bot on Golang
 
 ### To run this app 
 
-* Specify ENV `TELEGRAM_TOKEN`. Use `read -s TELEGRAM_TOKEN` after that `export TELEGRAM_TOKEN`
+* Specify ENV `TELE_TOKEN`. Use `read -s TELE_TOKEN` after that `export TELE_TOKEN`
 
 * Use this command to build app: `go build -ldflags "-X="github.com/vladyslavPlaksa/kbot-telegram/cmd.appVersion=<VERSION OF THE bot>`
 
