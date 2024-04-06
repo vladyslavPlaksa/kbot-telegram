@@ -28,3 +28,4 @@ push:
 
 clean:
 	rm -rf ${APP}
+	docker rmi ${REGISTRY}/${APP}:${VERSION}-${TARGETARCH}
