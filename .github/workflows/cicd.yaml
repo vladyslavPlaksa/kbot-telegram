@@ -2,10 +2,7 @@
 name: KBOT-CICD
 
 # Визначимо подію, яка запустить виконання workflow процесу при змінах у гілці develop
-on: 
-  push:
-    branches:
-      - develop
+on: push
 env:
   TARGETOS: linux
   TARGETARCH: amd64
