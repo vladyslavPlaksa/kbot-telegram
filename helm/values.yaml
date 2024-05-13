@@ -4,7 +4,7 @@ image:
   registry: "ghcr.io"
   repository: "vladyslavPlaksa/kbot-telegram"
   pullPolicy: IfNotPresent # Дозволяє замінити образ за замовчуванням
-  tag: v1.0.5-9c347a8
+  tag: v1.0.5-78bae0e
   os: linux
   arch: amd64
   parameter: go
